@@ -1,0 +1,7 @@
+{
+  "name": "chimbsmtaapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
